@@ -35,6 +35,11 @@ DB Settings:
 DB Migrations:
 
     python manage.py migrate
+    
+## Run
+Start server:
+
+    python manage.py runserver
 
 ## TODO
 - unit tests
